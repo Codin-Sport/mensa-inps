@@ -1,28 +1,20 @@
-# MensaInps
+# Welcome to Codin SportCenter!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+This is an Angular application developed during a 4-days training course, provided by Adecco for Codin.
 
-## Development server
+During the course we designed the app using Agile Methodology, in particular a light version of Scrum.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+You can see a live version of this app on GitHub Pages: https://codin-sport.github.io/mensa-inps/
 
-## Code scaffolding
+# User Stories [ITA]
+1. Come utente, voglio vedere il menu in anticipo per sapere cosa ci sarà da mangiare oggi.
+2. Come utente, voglio poter ordinare i piatti perché altrimenti non trovo niente.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Screenshots
 
-## Build
+![Welcome Page](screenshots/welcome-page.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+![Menu List](screenshots/menu-list.png)
+![Menu List with Orders](screenshots/menu-list-orders.png)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+![Dish Detail](screenshots/dish-detail.png)
